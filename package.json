@@ -1,0 +1,14 @@
+{
+  "name": "dashabot",
+  "version": "1.0.0",
+  "description": "My name is Dasha!",
+  "main": "dasha.js",
+  "scripts": {
+    "test": "sudo hack -r maste4"
+  },
+  "author": "maste4",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0"
+  }
+}
